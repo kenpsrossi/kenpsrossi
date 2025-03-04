@@ -1,4 +1,4 @@
-# ``` Kenps🧑🏻‍💻               Hello World! ```  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">   <img src="https://github.com/user-attachments/assets/8c8ec1c2-67de-4ab0-9a53-bf68359f1351" height="300px" align="right">
+# ``` Kenps🧑🏻‍💻             Hello World! ```  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">   <img src="https://github.com/user-attachments/assets/8c8ec1c2-67de-4ab0-9a53-bf68359f1351" height="300px" align="right">
 
 
   Olá!   Sou um estudante em transição de área, migrando da área jurídica <br>
@@ -11,7 +11,7 @@
   na área de tecnologia.
   <div> 
       <a href="https://www.instagram.com/kenps.souza/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href="https://" target="_blank"><img src="https://img.shields.io/badge/Notion-9146FF?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
+      <a href="https://https://www.linkedin.com/in/kenps-dev-adv/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
  
 ##
