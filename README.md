@@ -1,4 +1,4 @@
-#  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> ```  Kenps🧑🏻‍💻           Hello World! ``` :earth_americas: <img src="https://github.com/user-attachments/assets/8c8ec1c2-67de-4ab0-9a53-bf68359f1351" height="300px" align="right">
+#  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> ```  Kenps🧑🏻‍💻        Hello World! ``` :earth_americas: <img src="https://github.com/user-attachments/assets/8c8ec1c2-67de-4ab0-9a53-bf68359f1351" height="300px" align="right">
 
 
   Olá!   Sou um estudante em transição de área, migrando da área jurídica <br>
